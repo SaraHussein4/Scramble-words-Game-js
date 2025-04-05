@@ -51,4 +51,5 @@ A fun and interactive word puzzle game that challenges users to unscramble words
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/word-scramble-game.git
+   git clone https://github.com/SaraHussein4/Scramble-words-Game-js.git
+
